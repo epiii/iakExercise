@@ -1,0 +1,7 @@
+<TextView
+    android:text="coba ae iki opo , fjskshdjfhs fskjhdfj ksdhfkjashdf jsdjfhsa kjdfhs ajkdfhskjdfhajksdhfsjkdfh skjdfhsjkdfh kdjfkls flskdjflksd flaksdj falksdjflka djsfklsajdf asdfpirang meter dowone saiki lek gtak ketik i text sampe akeh ngene iki entek pirang karakter yo iki cek akeh e "
+    android:background="#33691e"
+	android:textColor="#f4ff81"
+    android:textAppearance="?android:textAppearanceLarge" 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
